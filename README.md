@@ -6,7 +6,7 @@ model-inspired knowledge graph embedding approach yields both improved knowledge
 representations. Our work also shows that jointly modeling both structured knowledge tuples and language improves both.
 
 <p align="center">
-<img src="img/introduction-KGE_LM_FNER.jpg" alt="logo" width="50%"/>
+<img src="img/introduction-slide.png" alt="logo" width="50%"/>
 </p>
 
 
