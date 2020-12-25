@@ -1,7 +1,7 @@
 # Jointly Learning Knowledge graoh Embedding with Fine Grain Entity types
 
 <p align="center">
-<img src="img/KGE_FNER.jpg" alt="KGE_FNER architecture" width="50%"/>
+<img src="img/KGE_FNER.png" alt="KGE_FNER architecture" width="50%"/>
 </p>
 
 ## Results
