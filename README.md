@@ -9,8 +9,8 @@ representations. Our work also shows that jointly modeling both structured knowl
 The implementation of the proposed work span into following section: \
     - Knowledge Graph Embedding as Language Model (KGE_LM) \
     - Neural Fine Grain Entity Type Recognition (FNER) \
-    - Jointly Learning KGE and FNER \
-    - Joint Learning KGE and LM
+    - Jointly Learning KGE and FNER (KGE_FNER)\
+    - Joint Learning KGE and LM (KGE_LM)
     
 ## Citation
 The source code and data in this repository aims at facilitating the study of knowledge graph embedding and fine grain entity type prediction with contextual representation along with Language Modeling task. If you use the code/data, please cite it as follows:
