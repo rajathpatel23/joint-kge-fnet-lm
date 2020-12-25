@@ -13,7 +13,7 @@ representations. Our work also shows that jointly modeling both structured knowl
 ## Implementation
 The implementation of the proposed work span into following section: \
     - Knowledge Graph Embedding as Language Model (KGE_LM) \
-    - Neural Fine Grain Entity Type Recognition (FNER) \
+    - Neural Fine Grain Entity Type Recognition (FNETR) \
     - Jointly Learning KGE and FNER (KGE_FNER)\
     - Joint Learning KGE and LM (KGE_LM)
     
