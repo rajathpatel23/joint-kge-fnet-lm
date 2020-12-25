@@ -1,7 +1,7 @@
 # Jointly Learning knowledge graph embedding with language model
 
 <p align="center">
-<img src="img/KGE_LM_1.pdf" alt="logo" width="50%"/>
+<img src="img/KGE_LM_1.jpg" alt="logo" width="50%"/>
 </p>
 
 
