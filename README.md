@@ -5,6 +5,11 @@ We demonstrate the complementary natures of neural knowledge graph embedding, fi
 model-inspired knowledge graph embedding approach yields both improved knowledge graph embeddings and fine-grain entity type
 representations. Our work also shows that jointly modeling both structured knowledge tuples and language improves both.
 
+<p align="center">
+<img src="img/introduction-KGE_LM_FNER.jpg" alt="logo" width="50%"/>
+</p>
+
+
 ## Implementation
 The implementation of the proposed work span into following section: \
     - Knowledge Graph Embedding as Language Model (KGE_LM) \
