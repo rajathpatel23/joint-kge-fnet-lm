@@ -33,7 +33,11 @@ Download the dataset from the link below
 
 [KGE_LM_data](https://drive.google.com/drive/folders/1VbA3zgpbuWIQGlk0zTEfqg9DkaqoO3xh?usp=sharing) 
 
-store the data in data directory here
+store the data in data directory by creating following path here
+```shell script
+mkdir data/
+mkdir data/random_dataset
+```
 
 ```python
 CUDA_VISIBLE_DEVICES=0,1,2 nohup python train_kge_lm.py --model_name=lm_kge_joint 
